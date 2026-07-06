@@ -59,6 +59,19 @@ docs/System_Architecture.md
 ```
 
 ---
+## Hardware Specifications
+
+| Component | Selection |
+|-----------|-----------|
+| MCU | STM32C091KB |
+| Temperature Sensor | TMP102 |
+| Communication | UART |
+| Sensor Interface | I²C |
+| Power Supply | USB-C (5 V) |
+| Operating Voltage | 3.3 V |
+| PCB | 2 Layers |
+| CAD Software | KiCad |
+
 
 # Features
 
